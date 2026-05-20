@@ -1,0 +1,8 @@
+Kind: pod
+apiVersion: v1
+metadata:
+  name: allstate-frontend
+  labels:
+    project: expense
+    component: allstate
+    environment: 
